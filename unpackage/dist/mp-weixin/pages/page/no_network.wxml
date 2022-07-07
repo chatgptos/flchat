@@ -1,0 +1,1 @@
+<view><view class="no_network"><image src="../../static/images/default/network_default3x.png" mode="widthFix"></image><view class="text-30 text-gray margin-bottom margin-top-lg">没有网络，请打开3G、4G或WIFI</view><button data-event-opts="{{[['tap',[['refresh',['$event']]]]]}}" class="cu-btn round lg line-gray" bindtap="__e">刷新页面</button></view></view>

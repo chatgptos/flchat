@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "收货地址",
+  "enablePullDownRefresh": true,
+  "onReachBottomDistance": 150,
+  "usingComponents": {
+    "wanl-empty": "/components/wanl-empty/wanl-empty",
+    "uni-load-more": "/components/uni-load-more/uni-load-more"
+  }
+}

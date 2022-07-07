@@ -1,0 +1,1 @@
+<view><view class="edgeInsetTop"></view><block wx:if="{{detailsData.url}}"><web-view webview-styles="{{webviewStyles}}" src="{{detailsData.url}}"></web-view></block><block wx:else><view class="content"><rich-text nodes="{{detailsData.content}}"></rich-text></view></block></view>

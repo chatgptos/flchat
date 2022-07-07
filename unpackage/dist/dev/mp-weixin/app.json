@@ -1,0 +1,122 @@
+{
+  "pages": [
+    "pages/article/list",
+    "pages/user"
+  ],
+  "subPackages": [
+    {
+      "root": "pages/notice",
+      "pages": [
+        "notice",
+        "chat",
+        "notify/notify",
+        "system/system",
+        "logistics/logistics"
+      ]
+    },
+    {
+      "root": "pages/user",
+      "pages": [
+        "auth/auth",
+        "auth/name",
+        "auth/perfect",
+        "auth/phone",
+        "auth/register",
+        "auth/retrieve",
+        "auth/thirdreg",
+        "auth/validcode",
+        "auth/resetpwd",
+        "bank/bank",
+        "bank/add",
+        "bank/details",
+        "coupon/list",
+        "coupon/mycard",
+        "coupon/details",
+        "coupon/apply",
+        "help",
+        "service",
+        "theme",
+        "footprint",
+        "follow",
+        "collect",
+        "signin/signin",
+        "signin/log",
+        "signin/rank",
+        "setting/notice",
+        "setting/privacy",
+        "setting/security",
+        "setting/currency",
+        "setting/securityCenter",
+        "setting/about",
+        "setting/setting",
+        "setting/user",
+        "feedback/feedback",
+        "feedback/lists",
+        "complaint/complaint",
+        "complaint/lists",
+        "order/order",
+        "order/addorder",
+        "order/details",
+        "money/money",
+        "money/list",
+        "money/pay",
+        "money/recharge",
+        "money/withdraw",
+        "money/witlist",
+        "address/address",
+        "address/addressManage",
+        "qrcode/qrcode",
+        "distribution/distribution",
+        "portrait/portrait",
+        "order/logistics",
+        "order/comment",
+        "comment/comment",
+        "refund/lists",
+        "refund/apply",
+        "refund/details",
+        "refund/log",
+        "refund/edit",
+        "money/details"
+      ]
+    }
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "蜂雷展会小程序",
+    "navigationBarBackgroundColor": "#F7F7F7",
+    "backgroundColor": "#F7F7F7",
+    "backgroundColorTop": "#F7F7F7",
+    "backgroundColorBottom": "#F7F7F7"
+  },
+  "tabBar": {
+    "color": "#666666",
+    "selectedColor": "#fe5400",
+    "borderStyle": "white",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/user",
+        "iconPath": "static/images/tabbar/user.png",
+        "selectedIconPath": "static/images/tabbar/userHL.png",
+        "text": "我的"
+      },
+      {
+        "pagePath": "pages/article/list",
+        "iconPath": "static/images/tabbar/index.png",
+        "selectedIconPath": "static/images/tabbar/indexHL.png",
+        "text": "消息中心"
+      }
+    ]
+  },
+  "preloadRule": {},
+  "sitemapLocation": "sitemap.json",
+  "permission": {
+    "scope.userLocation": {
+      "desc": "演示定位能力"
+    }
+  },
+  "uniStatistics": {
+    "enable": false
+  },
+  "usingComponents": {}
+}

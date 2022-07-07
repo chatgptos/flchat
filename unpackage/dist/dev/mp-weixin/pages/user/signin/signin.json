@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "积分签到",
+  "usingComponents": {
+    "wanl-steps": "/components/wanl-steps/wanl-steps",
+    "uni-calendar": "/components/uni-calendar/uni-calendar",
+    "wanl-modal": "/components/wanl-modal/wanl-modal"
+  }
+}

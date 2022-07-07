@@ -1,0 +1,24 @@
+{
+  "navigationBarTitleText": "加载中..",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "wanl-page-banner": "/components/wanl-page-banner/wanl-page-banner",
+    "wanl-page-image": "/components/wanl-page-image/wanl-page-image",
+    "wanl-page-video": "/components/wanl-page-video/wanl-page-video",
+    "wanl-page-menu": "/components/wanl-page-menu/wanl-page-menu",
+    "wanl-page-notice": "/components/wanl-page-notice/wanl-page-notice",
+    "wanl-page-article": "/components/wanl-page-article/wanl-page-article",
+    "wanl-page-headlines": "/components/wanl-page-headlines/wanl-page-headlines",
+    "wanl-page-search": "/components/wanl-page-search/wanl-page-search",
+    "wanl-page-activity": "/components/wanl-page-activity/wanl-page-activity",
+    "wanl-page-category-title": "/components/wanl-page-category-title/wanl-page-category-title",
+    "wanl-page-classify": "/components/wanl-page-classify/wanl-page-classify",
+    "wanl-page-likes": "/components/wanl-page-likes/wanl-page-likes",
+    "wanl-page-goods": "/components/wanl-page-goods/wanl-page-goods",
+    "wanl-page-bargain": "/components/wanl-page-bargain/wanl-page-bargain",
+    "wanl-page-seckill": "/components/wanl-page-seckill/wanl-page-seckill",
+    "wanl-page-empty": "/components/wanl-page-empty/wanl-page-empty",
+    "wanl-page-division": "/components/wanl-page-division/wanl-page-division",
+    "wanl-share": "/components/wanl-share/wanl-share"
+  }
+}

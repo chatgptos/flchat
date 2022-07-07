@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "头像",
+  "usingComponents": {
+    "wanl-image-cutter": "/components/wanl-image-cutter/wanl-image-cutter"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "收藏夹",
+  "navigationStyle": "custom",
+  "disableScroll": true,
+  "usingComponents": {
+    "wanl-empty": "/components/wanl-empty/wanl-empty",
+    "uni-load-more": "/components/uni-load-more/uni-load-more"
+  }
+}

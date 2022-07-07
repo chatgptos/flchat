@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "我的反馈",
+  "usingComponents": {
+    "wanl-empty": "/components/wanl-empty/wanl-empty",
+    "wanl-rate": "/components/wanl-rate/wanl-rate",
+    "uni-load-more": "/components/uni-load-more/uni-load-more"
+  }
+}

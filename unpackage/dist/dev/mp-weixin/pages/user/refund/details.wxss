@@ -1,0 +1,75 @@
+
+.wanl-refund .header {
+	width: 100%;
+	height: 180rpx;
+	position: relative;
+	background-color: #f72b36;
+}
+.wanl-refund .header .img-bg {
+	width: 100%;
+	height: 180rpx;
+}
+.wanl-refund .header .content {
+	width: 100%;
+	height: 180rpx;
+	position: absolute;
+	z-index: 10;
+	left: 0;
+	top: 0;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 0 60rpx;
+	box-sizing: border-box;
+}
+.wanl-refund .header .status-text {
+	font-size: 34rpx;
+	line-height: 34rpx;
+	color: #FEFEFE;
+}
+.wanl-refund .header .reason {
+	font-size: 24rpx;
+	line-height: 24rpx;
+	color: rgba(254, 254, 254, 0.75);
+	padding-top: 15rpx;
+	display: flex;
+	align-items: center;
+}
+.wanl-refund .header .reason-text {
+	padding-right: 12rpx;
+}
+.wanl-refund .header .status-img {
+	width: 100rpx;
+	height: 100rpx;
+	display: block;
+}
+.wanl-refund .current .cu-btn{
+	width: 140rpx;
+	font-size: 26rpx;
+	padding: 0 12rpx;
+}
+.wanl-refund .receipt{
+	display: flex;
+	align-items: center;
+}
+.wanl-refund .receipt .icon{
+	margin-right: 25rpx;
+	font-weight: bold;
+}
+.wanl-refund .receipt .content{
+	flex: 1;
+}
+.wanl-refund .cu-form-group .title{
+	padding-right: 25rpx;
+	font-size: 28rpx;
+	height: 55rpx;
+	line-height: 55rpx;
+}
+.wanl-refund .cu-form-group input{
+	font-size: 28rpx;
+	color: #555;
+	padding-right: 10rpx;
+}
+
+
+

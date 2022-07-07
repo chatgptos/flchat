@@ -1,0 +1,109 @@
+@charset "UTF-8";
+/* 页面左右间距 */
+/* 文字尺寸 */
+/*文字颜色*/
+/* 边框颜色 */
+/* 图片加载中颜色 */
+/* 行为相关颜色 */
+.wanlgroups-user-container__head {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 999;
+}
+.wanlgroups-user-container__head .background {
+  position: absolute;
+  left: 0;
+  right: 0;
+  z-index: 1;
+}
+.wanlgroups-user-container__head .background .bgcolor {
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.4);
+}
+.wanlgroups-user-container__head .navigater {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: absolute;
+  left: 0;
+  right: 0;
+  z-index: 999;
+  padding-left: 25rpx;
+  padding-right: 25rpx;
+  padding-right: 220rpx;
+}
+.wanlgroups-user-container__head .navigater > view {
+  display: flex;
+  align-items: center;
+}
+.wanlgroups-user-container__main {
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+  background-position-y: center;
+}
+.wanlgroups-user-container__main .text-white-agba {
+  color: rgba(255, 255, 255, 0.9);
+}
+.wanlgroups-user-container__main .head {
+  padding: 40rpx 30rpx;
+  background-color: rgba(0, 0, 0, 0.4);
+}
+.wanlgroups-user-container__main .head .userinfo {
+  height: 140px;
+  display: flex;
+  align-items: center;
+}
+.wanlgroups-user-container__main .head .userinfo .cu-avatar {
+  width: 160rpx;
+  height: 160rpx;
+}
+.wanlgroups-user-container__list {
+  margin-top: -24rpx;
+  border-radius: 24rpx 24rpx 0 0;
+}
+.wanlgroups-user-container__list .content {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.wanlgroups-user-container__list .content .item {
+  position: relative;
+  width: calc(50% - 14rpx);
+  height: 250rpx;
+  overflow: hidden;
+  margin-bottom: 28rpx;
+  border-radius: 12rpx;
+}
+.wanlgroups-user-container__list .content .item image {
+  position: absolute;
+  height: 250rpx;
+  z-index: 97;
+}
+.wanlgroups-user-container__list .content .item .background {
+  position: absolute;
+  background-color: rgba(0, 0, 0, 0.1);
+  width: 100%;
+  height: 100%;
+  z-index: 98;
+}
+.wanlgroups-user-container__list .content .item .tag {
+  position: absolute;
+  top: 20rpx;
+  left: 20rpx;
+  background-color: rgba(0, 0, 0, 0.2);
+  display: flex;
+  align-items: center;
+  z-index: 99;
+}
+.wanlgroups-user-container__list .content .item .tag .colour {
+  width: 30rpx;
+  height: 30rpx;
+}
+.wanlgroups-user-container__list .content .item .tag .name {
+  line-height: 30rpx;
+}
+

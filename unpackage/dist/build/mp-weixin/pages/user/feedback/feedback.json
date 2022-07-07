@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "意见反馈",
+  "usingComponents": {
+    "wanl-rate": "/components/wanl-rate/wanl-rate"
+  }
+}

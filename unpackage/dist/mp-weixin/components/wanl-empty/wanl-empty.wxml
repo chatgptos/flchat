@@ -1,0 +1,1 @@
+<view class="empty-content"><view class="wanl-gray text-center"><image class="animation-scale-down" src="{{src?$root.g0:$root.g1}}"></image><view class="text-30">{{text}}</view></view></view>

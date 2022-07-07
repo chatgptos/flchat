@@ -1,0 +1,1 @@
+.flbooth-info-container__main{display:flex;align-items:center;justify-content:space-between;height:200rpx}.flbooth-info-container__main .cu-avatar{width:120rpx;height:120rpx}.flbooth-info-container__main .shopuser{display:flex;align-items:center}

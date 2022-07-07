@@ -1,0 +1,21 @@
+
+.item {
+	position: relative;
+}
+.item .choice {
+	color: rgba(255, 255, 255, 0.8);
+	position: absolute;
+	right: 20rpx;
+	top: 20rpx;
+}
+.wanlian.cu-bar.tabbar {
+	background-color: transparent;
+}
+.wanlian.cu-bar.tabbar .cu-btn {
+	width: calc(100% - 50rpx);
+}
+.wanlian.cu-bar.tabbar .cu-btn.lg {
+	font-size: 32rpx;
+	height: 86rpx;
+}
+

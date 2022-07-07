@@ -1,0 +1,10 @@
+{
+  "navigationBarTextStyle": "white",
+  "navigationStyle": "custom",
+  "disableScroll": true,
+  "usingComponents": {
+    "wanl-find-header": "/components/wanl-find/header",
+    "wanl-find-play": "/components/wanl-find/play",
+    "wanl-find-lists": "/components/wanl-find/lists"
+  }
+}

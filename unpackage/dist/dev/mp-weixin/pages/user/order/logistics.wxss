@@ -1,0 +1,75 @@
+
+.wanl-order-goods .scroll-view{
+		white-space: nowrap;
+		width: 100%;
+		display: flex;
+}
+.wanl-order-goods .scroll-view .list{
+		display: flex;
+}
+.wanl-order-goods .scroll-view .list .item{
+		margin-right: 10rpx;
+}
+.wanl-order-goods .scroll-view .list .item .cu-avatar{
+		width: 150rpx;
+		height: 150rpx;
+}
+.courier-number {
+	font-size: 22rpx;
+	padding: 20rpx 25rpx;
+	background-color: #fbfbfb;
+}
+.order-tracking {
+	box-sizing: border-box;
+	padding: 25rpx;
+	padding-left: 50rpx;
+	padding-top: 25rpx;
+}
+.order-tracking .cu-tag {
+	font-size: 22rpx;
+	padding: 0 10rpx;
+	height: 40rpx;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	justify-items: center;
+}
+.order-tracking .time-axis {
+	padding-left: 20px;
+	box-sizing: border-box;
+	position: relative;
+}
+.order-tracking .time-axis::before {
+	content: ' ';
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 1px;
+	bottom: 0;
+	border-left: 1px solid #ddd;
+	-webkit-transform-origin: 0 0;
+	transform-origin: 0 0;
+	-webkit-transform: scaleX(0.5);
+	transform: scaleX(0.5);
+}
+.order-tracking .time-axis .timeaxis-item {
+	position: relative;
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	margin-bottom: 25px;
+}
+.order-tracking .time-axis .timeaxis-item .timeaxis-node {
+	position: absolute;
+	top: 0;
+	left: -20px;
+	-webkit-transform-origin: 0;
+	        transform-origin: 0;
+	-webkit-transform: translateX(-50%);
+	        transform: translateX(-50%);
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	z-index: 99;
+}
+

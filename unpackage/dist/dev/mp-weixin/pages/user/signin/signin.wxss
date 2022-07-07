@@ -1,0 +1,50 @@
+
+.wanl-signin .header {
+	display: flex;
+	height: 320rpx;
+	align-items: center;
+	justify-content: space-between;
+}
+.wanl-signin .header .user {
+	display: flex;
+	align-items: center;
+}
+.wanl-signin .header .tag {
+	background-color: #fff;
+	padding: 10rpx 10rpx;
+	border-radius: 100rpx 0 0 100rpx;
+}
+.wanl-signin .content {
+	margin: 25rpx;
+	margin-top: -80rpx;
+}
+.wanl-signin .content .cu-btn {
+	width: 50%;
+}
+.wanl-signin .attendance-modal .modal-header {
+	width: 100%;
+	height: 260rpx;
+	margin-top: -180rpx;
+	position: relative;
+}
+.wanl-signin .attendance-modal .modal-header image {
+	width: 100%;
+	height: 100%;
+}
+.wanl-signin .attendance-modal .modal-content {
+	height: 200rpx;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.wanl-signin .attendance-modal .modal-btn{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.wanl-signin .attendance-modal .btn {
+	width: 100%;
+	border-radius: 50rem;
+	font-size: $font-size-lg;
+}
+

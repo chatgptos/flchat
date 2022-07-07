@@ -1,0 +1,1 @@
+.wanlpage-division{width:100%;position:relative;text-align:center;display:flex;justify-content:center;align-items:center;box-sizing:border-box;overflow:hidden}.wanlpage-division .wanl-divider-line{position:absolute;-webkit-transform:scaleY(.5);transform:scaleY(.5)}.wanlpage-division .wanl-divider-text{position:relative;text-align:center;z-index:1}

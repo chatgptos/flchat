@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "拼团活动",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "wanl-groups": "/components/wanl-groups/wanl-groups"
+  }
+}

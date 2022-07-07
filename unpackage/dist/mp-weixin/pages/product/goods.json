@@ -1,0 +1,12 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "wanl-rate": "/components/wanl-rate/wanl-rate",
+    "wanl-divider": "/components/wanl-divider/wanl-divider",
+    "wanl-product": "/components/wanl-product/wanl-product",
+    "uni-load-more": "/components/uni-load-more/uni-load-more",
+    "wanl-direct": "/components/wanl-direct/wanl-direct",
+    "wanl-share": "/components/wanl-share/wanl-share",
+    "uni-number-box": "/components/uni-number-box/uni-number-box"
+  }
+}

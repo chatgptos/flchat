@@ -1,0 +1,1 @@
+<view class="wanlpage-bargain">{{''+pageData.name+'wanlpage-bargain'}}</view>

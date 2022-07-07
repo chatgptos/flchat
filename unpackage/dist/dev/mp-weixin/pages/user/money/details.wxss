@@ -1,0 +1,33 @@
+
+.wanl-money-log .title{
+	padding: 20rpx 0 50rpx 0;
+}
+.wanl-money-log .title>view{
+	font-size: 70rpx;
+	font-weight: 600;
+	margin-top: 14rpx;
+}
+.wanl-money-log .list .flex {
+	margin-bottom: 25rpx;
+}
+.wanl-money-log .list .flex .type{
+	width: 150rpx;
+}
+.wanl-money-log .list .flex .info{
+	flex-grow: 1;
+}
+.wanl-money-log .goods .item{
+	display: flex;
+	align-items: center;
+	margin: 25rpx 0;
+	padding-bottom: 25rpx;
+}
+.wanl-money-log .goods .item image{
+	width: 100rpx;
+	height: 100rpx;
+	margin-right: 25rpx;
+}
+.wanl-money-log .goods .item .info{
+	flex: 1;
+}
+

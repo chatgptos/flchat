@@ -1,0 +1,1 @@
+<view data-event-opts="{{[['tap',[['e0',['$event']]]]]}}" class="wanlpage-category-title" style="{{$root.s0}}" bindtap="__e"><view class="text-lg"><text class="{{['margin-right-xs',pageData.data[0].categoryIcon]}}"></text>{{pageData.data[0].categoryName+' ···'}}</view><view class="text-sm wanl-gray">更多<text class="wlIcon-fanhui2 margin-left-xs"></text></view></view>

@@ -1,0 +1,11 @@
+
+.wanl-signin-log .header{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 300rpx;
+}
+.wanl-signin-log .cu-list.menu-avatar>.cu-item .content{
+	left: 25rpx;
+}
+

@@ -1,0 +1,24 @@
+
+radio-group {
+    display: block;
+}
+.wanl-pay .money{
+	padding: 25rpx 40rpx 25rpx 60rpx;
+}
+.wanl-pay .money .symbol{
+	font-size: 60rpx;
+	margin-right: 20rpx;
+}
+.wanl-pay .money .price{
+	display: flex;
+	align-items: center;
+}
+.wanl-pay .money .price input{
+
+	height: 100rpx;
+	min-height: 100rpx;
+
+	width: 100%;
+	font-size: 100rpx;
+}
+

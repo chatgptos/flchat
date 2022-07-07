@@ -1,0 +1,1 @@
+<view style="flex:1;"><video style="{{'height:'+(screenHeight+'px')+';'+('width:'+(screenWidth+'px')+';')}}" src="{{source}}" controls="{{false}}" object-fit="fill" loop="{{true}}" autoplay="{{true}}"></video></view>

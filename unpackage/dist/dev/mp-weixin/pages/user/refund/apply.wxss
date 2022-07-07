@@ -1,0 +1,8 @@
+
+.dashed::after {
+    border: 1px dashed #666;
+}
+.cu-btn.lg{
+	width: calc(100% - 50rpx);
+}
+

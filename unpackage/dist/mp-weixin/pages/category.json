@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "分类",
+  "navigationStyle": "custom",
+  "disableScroll": true,
+  "usingComponents": {
+    "wanl-direct": "/components/wanl-direct/wanl-direct",
+    "wanl-share": "/components/wanl-share/wanl-share",
+    "flbooth-classify": "/components/wanl-shop/classify"
+  }
+}

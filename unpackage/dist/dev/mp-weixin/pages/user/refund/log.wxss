@@ -1,0 +1,8 @@
+
+.wanl-log .cu-avatar{
+	margin-top: 4rpx;
+}
+.wanl-log .content{
+	flex: 1;
+}
+

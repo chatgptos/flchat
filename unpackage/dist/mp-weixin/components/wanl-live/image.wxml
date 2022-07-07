@@ -1,0 +1,1 @@
+<view class="wanl-image"><image class="wanl-image-image" style="{{'height:'+(screenHeight+'px')+';'+('width:'+(screenWidth+'px')+';')}}" lazy-load="{{true}}" fade-show="{{false}}" src="{{$root.m0}}" mode="aspectFill"></image></view>

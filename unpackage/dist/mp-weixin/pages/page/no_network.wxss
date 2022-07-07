@@ -1,0 +1,1 @@
+page{background-color:#fff}.no_network{display:flex;align-items:center;justify-content:center;flex-direction:column;position:fixed;left:0;top:0;right:0;bottom:0;margin-bottom:200rpx}.no_network image{width:360rpx}.no_network .cu-btn.lg{padding:0 50rpx;font-size:28rpx;height:70rpx}

@@ -1,0 +1,1 @@
+page{background-color:#fff}.wanlian{display:flex;align-items:center;justify-content:center;flex-direction:column;padding-top:80rpx;padding-bottom:60rpx}.wanlian > image{height:130rpx;width:130rpx}.footer{display:flex;align-items:center;justify-content:center;flex-direction:column;position:fixed;bottom:100rpx;font-size:24rpx;width:100%}

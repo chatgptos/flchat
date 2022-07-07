@@ -1,0 +1,90 @@
+
+.page-background {
+	position: fixed;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	z-index: 10;
+	background-color: #f1f1f1;
+}
+.page-container {
+	position: relative;
+	z-index: 20;
+}
+.qrcode-canvas {
+	position: fixed;
+	right: 100vw;
+	bottom: 100vh;
+	z-index: -999;
+}
+.content {
+	width: 100%;
+	height: calc(100vh - 44px - 150px);
+	overflow-y: scroll;
+}
+.poster-image {
+	width: 100%;
+	height: 100%;
+	min-height: 500rpx;
+	padding: 80rpx;
+	box-sizing: border-box;
+}
+.poster-image image {
+	width: 100%;
+	height: 100%;
+}
+.poster-canvas {
+	position: fixed;
+	right: 100vw;
+	bottom: 100vh;
+}
+.page-foot {
+	position: fixed;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	z-index: 30;
+	background-color: #e5e5e5;
+	padding-bottom: env(safe-area-inset-bottom);
+}
+.template-list {
+	display: flex;
+	position: relative;
+	height: 100px;
+}
+.template-list .tips {
+	position: absolute;
+	display: flex;
+	align-items: center;
+	justify-items: center;
+	justify-content: center;
+	top: -60rpx;
+	width: 100%;
+}
+.template-list .tips .wlIcon-31tishi{
+	font-size: 32rpx;
+}
+.template-item {
+	position: relative;
+	height: 88px;
+	margin: 6px 0 6px 6px;
+}
+.template-item::before {
+	content: '';
+	position: absolute;
+	z-index: 10;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+}
+.template-item.checked::before {
+	border: 2px solid #44aa33;
+}
+.template-item image {
+	display: block;
+	width: 100%;
+	height: 100%;
+}
+

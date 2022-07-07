@@ -1,0 +1,8 @@
+{
+  "enablePullDownRefresh": true,
+  "navigationBarTitleText": "交易/物流",
+  "usingComponents": {
+    "wanl-empty": "/components/wanl-empty/wanl-empty",
+    "uni-load-more": "/components/uni-load-more/uni-load-more"
+  }
+}

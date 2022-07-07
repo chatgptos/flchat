@@ -1,0 +1,21 @@
+
+.wanlian.cu-bar.tabbar {
+	background-color: transparent;
+}
+.wanlian.cu-bar.tabbar .cu-btn {
+	width: calc(100% - 50rpx);
+}
+.wanlian.cu-bar.tabbar .cu-btn.lg {
+	font-size: 32rpx;
+	height: 86rpx;
+}
+.bankinfo{
+	display: flex;
+	align-items: center;
+}
+.bankinfo image{
+	width: 50rpx;
+	height: 50rpx;
+	margin-right: 20rpx;
+}
+

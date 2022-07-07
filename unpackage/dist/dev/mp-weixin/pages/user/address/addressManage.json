@@ -1,0 +1,19 @@
+{
+  "navigationBarTitleText": "收货管理",
+  "titleNView": {
+    "backgroundColor": "#f7f7f7",
+    "buttons": [
+      {
+        "text": "保存",
+        "fontSize": "15px",
+        "color": "#f40",
+        "float": "right",
+        "width": "35px",
+        "fontWeight": "bold"
+      }
+    ]
+  },
+  "usingComponents": {
+    "wanl-address": "/components/wanl-address/wanl-address"
+  }
+}

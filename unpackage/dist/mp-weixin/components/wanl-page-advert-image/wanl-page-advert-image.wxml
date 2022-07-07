@@ -1,0 +1,1 @@
+<view><block wx:for="{{$root.l0}}" wx:for-item="item" wx:for-index="index" wx:key="id"><block wx:if="{{item.$orig.id==pageData.data[0].advertLink}}"><view data-event-opts="{{[['tap',[['onAdvert',['$0'],[[['advertData','id',item.$orig.id]]]]]]]}}" class="wanlpage-advert-image" bindtap="__e"><image style="{{item.s0}}" src="{{item.g0}}"></image></view></block></block></view>

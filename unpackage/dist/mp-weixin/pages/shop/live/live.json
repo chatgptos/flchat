@@ -1,0 +1,10 @@
+{
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "直播",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "uni-popup": "/components/uni-popup/uni-popup",
+    "wanl-live-header": "/components/wanl-live/header",
+    "wanl-live-comment": "/components/wanl-live/comment"
+  }
+}

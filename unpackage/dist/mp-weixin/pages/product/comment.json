@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "商品评论",
+  "enablePullDownRefresh": true,
+  "onReachBottomDistance": 150,
+  "usingComponents": {
+    "wanl-rate": "/components/wanl-rate/wanl-rate",
+    "uni-load-more": "/components/uni-load-more/uni-load-more"
+  }
+}

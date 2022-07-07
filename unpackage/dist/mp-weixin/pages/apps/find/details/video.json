@@ -1,0 +1,8 @@
+{
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "发现视频",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "wanl-find-play": "/components/wanl-find/play"
+  }
+}

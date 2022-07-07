@@ -1,0 +1,1 @@
+<view class="wanlpage-goods" style="{{$root.s0}}"><wanl-product vue-id="c52f67f4-1" dataList="{{data}}" dataStyle="{{'col-'+pageData.params.colthree+'-'+pageData.params.colmargin}}" bind:__l="__l"></wanl-product></view>

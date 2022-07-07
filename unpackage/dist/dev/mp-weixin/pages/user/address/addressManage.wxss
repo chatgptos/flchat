@@ -1,0 +1,32 @@
+
+.cu-form-group {
+	padding: 0 25rpx;
+}
+.cu-form-group .title {
+	min-width: calc(4em + 15px);
+	font-size: 26rpx;
+}
+.cu-form-group input,
+.cu-form-group textarea {
+	font-size: 26rpx;
+}
+.cu-btn.lg {
+	font-size: 32rpx;
+	height: 86rpx;
+}
+.tipsScroll {
+	width: 100%;
+	height: 500rpx;
+	padding: 0 50rpx;
+}
+.tipsScroll .item {
+	margin: 25rpx 0;
+}
+.tipsScroll .item view {
+	color: #B8B8B8;
+	font-size: 22rpx;
+}
+.tipsScroll .item text {
+	color: #333;
+}
+

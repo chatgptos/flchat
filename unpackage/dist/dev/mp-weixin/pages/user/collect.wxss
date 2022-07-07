@@ -1,0 +1,52 @@
+@charset "UTF-8";
+/* 页面左右间距 */
+/* 文字尺寸 */
+/*文字颜色*/
+/* 边框颜色 */
+/* 图片加载中颜色 */
+/* 行为相关颜色 */
+.collect-container__head .navigater {
+  position: relative;
+}
+.collect-container__head .navigater .back {
+  position: absolute;
+  left: 25rpx;
+  z-index: 9999;
+}
+.collect-container__head .navigater .back text {
+  font-size: 36rpx;
+  font-weight: bold;
+}
+.collect-container__main {
+  position: relative;
+  z-index: 99;
+}
+.collect-container__main .content {
+  height: 100%;
+}
+.collect-container__main .content .item {
+  display: flex;
+}
+.collect-container__main .content .item .cu-avatar {
+  height: 160rpx;
+  width: 160rpx;
+  flex-shrink: 0;
+}
+.collect-container__main .content .item .subject {
+  display: flex;
+  flex: 1;
+  flex-wrap: wrap;
+  align-content: space-between;
+}
+.collect-container__main .content .item .subject > view {
+  width: 100%;
+}
+.collect-container__main .content .item .subject .menu {
+  display: flex;
+  justify-content: space-between;
+}
+.collect-container__main .content .item .subject .menu .button > text + text {
+  margin-left: 60rpx;
+  margin-right: 10rpx;
+}
+

@@ -1,0 +1,1 @@
+<view class="wanlpage-seckill">{{''+pageData.name+'wanlpage-seckill'}}</view>

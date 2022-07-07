@@ -1,0 +1,1 @@
+<view class="wanl-divider" style="{{'height:'+(height+'rpx')+';'}}"><view class="wanl-divider-line" style="{{'width:'+(width)+';'+('background:'+($root.m0)+';')}}"></view><view class="wanl-divider-text" style="{{'color:'+(color)+';'+('font-size:'+(size+'rpx')+';')+('line-height:'+(size+'rpx')+';')+('background:'+(bgcolor)+';')}}"><slot></slot></view></view>

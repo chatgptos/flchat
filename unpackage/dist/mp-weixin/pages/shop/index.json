@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "店铺首页",
+  "navigationStyle": "custom",
+  "disableScroll": true,
+  "usingComponents": {
+    "flbooth-head": "/components/wanl-shop/shop/head",
+    "flbooth-page": "/components/wanl-shop/page",
+    "flbooth-product": "/components/wanl-shop/shop/product",
+    "flbooth-classify": "/components/wanl-shop/classify",
+    "flbooth-find": "/components/wanl-shop/shop/find"
+  }
+}

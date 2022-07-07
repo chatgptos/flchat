@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": " ",
+  "navigationBarBackgroundColor": "#ffffff",
+  "backgroundColorTop": "#ffffff",
+  "backgroundColorBottom": "#ffffff",
+  "usingComponents": {
+    "wanl-keyboard": "/components/wanl-keyboard/wanl-keyboard"
+  }
+}

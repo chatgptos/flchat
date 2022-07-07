@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "拼团详情",
+  "usingComponents": {
+    "wanl-timeout": "/components/wanl-timeout/wanl-timeout",
+    "wanl-share": "/components/wanl-share/wanl-share"
+  }
+}

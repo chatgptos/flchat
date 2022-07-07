@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "消息中心",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "wanl-empty": "/components/wanl-empty/wanl-empty"
+  }
+}

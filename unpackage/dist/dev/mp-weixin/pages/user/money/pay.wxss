@@ -1,0 +1,8 @@
+
+page{
+	background-color: white;
+}
+radio-group {
+    display: block;
+}
+

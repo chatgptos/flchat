@@ -1,0 +1,1 @@
+<view class="wanlpage-video" style="{{$root.s0}}"><video poster="{{$root.g0}}" src="{{$root.g1}}"></video></view>

@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "提现日志",
+  "backgroundColorTop": "#ffffff",
+  "backgroundColorBottom": "#ffffff",
+  "usingComponents": {
+    "wanl-empty": "/components/wanl-empty/wanl-empty",
+    "uni-load-more": "/components/uni-load-more/uni-load-more"
+  }
+}

@@ -1,0 +1,9 @@
+.wanl-gray-light{color:#eee}.wanl-cart-shop{background-color:#fff}.wanl-cart-shop radio::before,
+.wanl-cart-shop checkbox::before{margin-top:-7px;right:1px}.wanl-cart-shop radio .wx-radio-input,
+.wanl-cart-shop checkbox .wx-checkbox-input,
+.wanl-cart-shop radio .uni-radio-input,
+.wanl-cart-shop checkbox .uni-checkbox-input{margin:0;width:16px;height:16px}.wanl-cart-shop checkbox-group{margin-right:25rpx}.wanl-cart-shop .shop{position:relative;display:flex;justify-content:space-between;align-items:center}.wanl-cart-shop .shop .shopname{position:absolute;display:flex;align-items:center;left:60rpx}.wanl-cart-shop .shop uni-checkbox .uni-checkbox-input{border:1px solid #ccc}.wanl-cart-goods{display:flex;align-items:center;margin-bottom:30rpx}.wanl-cart-goods:last-child{margin-bottom:18rpx}.wanl-cart-goods .picture{width:180rpx;height:180rpx}.wanl-cart-goods .picture image{width:180rpx;height:180rpx;overflow:hidden;border-radius:20rpx}.wanl-cart-goods .content{padding-left:25rpx;width:100%;overflow:hidden}.wanl-cart-goods .content .opt{font-size:24rpx;padding:0;color:#000;height:32rpx;background-color:#f6f6f6;font-weight:300;margin-top:10rpx;margin-bottom:25rpx;border-radius:4rpx}.wanl-cart-goods .content .opt text{padding-right:6rpx;padding-left:10rpx}.wanl-cart-foot{width:100%;display:flex;align-items:center;justify-content:space-between;z-index:997;min-height:52px;background-color:#fff;padding:0 25rpx}.wanl-cart-foot radio:before,
+.wanl-cart-foot checkbox:before{margin-top:-7px;right:1px}.wanl-cart-foot radio .wx-radio-input,
+.wanl-cart-foot checkbox .wx-checkbox-input,
+.wanl-cart-foot radio .uni-radio-input,
+.wanl-cart-foot checkbox .uni-checkbox-input{margin:0;width:16px;height:16px}.wanl-cart-foot.account button{margin-left:25rpx}.wanl-cart-foot.edit button{margin-left:20rpx}.wanl-cart-foot.account .cu-btn{padding:0 25rpx;font-size:32rpx;height:72rpx;margin-top:6rpx}.wanl-cart-foot.edit .cu-btn{padding:0 30rpx;font-size:24rpx;height:56rpx}

@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "发现详情",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "wanl-more": "/components/wanl-more/wanl-more",
+    "wanl-comment": "/components/wanl-comment/wanl-comment",
+    "uni-load-more": "/components/uni-load-more/uni-load-more"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "uni-popup": "/components/uni-popup/uni-popup",
+    "wanl-comment": "/components/wanl-comment/wanl-comment",
+    "wanl-find-video": "/components/wanl-find/video"
+  }
+}

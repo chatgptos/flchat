@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "售后/退款",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "wanl-empty": "/components/wanl-empty/wanl-empty",
+    "uni-load-more": "/components/uni-load-more/uni-load-more"
+  }
+}

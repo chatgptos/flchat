@@ -1,0 +1,1 @@
+<view class="wanlpage-notice" style="{{$root.s0}}"><view data-event-opts="{{[['tap',[['e0',['$event']]]]]}}" bindtap="__e"><block wx:if="{{pageData.params.show}}"><text class="wlIcon wlIcon-notice margin-right-xs"></text></block><text>{{pageData.data[0].content}}</text></view></view>

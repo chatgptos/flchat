@@ -1,0 +1,1 @@
+.wanl-success .content{display:flex;flex-direction:column;justify-content:center;align-items:center}.wanl-success .content .icon{font-size:180rpx;color:#3aa112;margin-top:150rpx}.wanl-success .content .button{width:100%}

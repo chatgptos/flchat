@@ -1,0 +1,90 @@
+
+.wanl-order .header {
+	width: 100%;
+	height: 180rpx;
+	position: relative;
+	background-color: #f72b36;
+}
+.wanl-order .header .img-bg {
+	width: 100%;
+	height: 180rpx;
+}
+.wanl-order .header .content {
+	width: 100%;
+	height: 180rpx;
+	position: absolute;
+	z-index: 10;
+	left: 0;
+	top: 0;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 0 60rpx;
+	box-sizing: border-box;
+}
+.wanl-order .header .status-text {
+	font-size: 34rpx;
+	line-height: 34rpx;
+	color: #FEFEFE;
+}
+.wanl-order .header .reason {
+	font-size: 24rpx;
+	line-height: 24rpx;
+	color: rgba(254, 254, 254, 0.75);
+	padding-top: 15rpx;
+	display: flex;
+	align-items: center;
+}
+.wanl-order .header .reason-text {
+	padding-right: 12rpx;
+}
+.wanl-order .header .status-img {
+	width: 100rpx;
+	height: 100rpx;
+	display: block;
+}
+.wanl-order .lists .shopname {
+    margin: 25rpx 25rpx 30rpx 25rpx;
+}
+.wanl-order .lists .price>view{
+	display: flex;
+	align-items: center;
+	justify-content:space-between;
+	height: 40rpx;
+}
+.wanl-order .lists .cu-btn{
+	font-size: 22rpx;
+	padding: 0 14rpx;
+}
+.cu-list.menu-avatar>.cu-item{
+	height: 160rpx;
+}
+.cu-list.menu-avatar>.cu-item .content{
+	line-height: 1.4;
+}
+.wanl-order .order .title{
+	display: flex;
+	align-items: center;
+	justify-items: center;
+	justify-content: space-between;
+}
+.wanl-order .order .item{
+	display: flex;
+	padding-top: 30rpx;
+}
+.wanl-order .order .foot{
+	display: flex;
+	justify-content: space-around;
+	justify-items: center;
+	align-items: center;
+	padding-top: 25rpx;
+	margin-top: 20rpx;
+}
+.wanl-order .order .foot text[class*="wlIcon-"]{
+	color: #0081FF;
+	margin-right: 10rpx;
+	font-size: 32rpx;
+}
+
+
+

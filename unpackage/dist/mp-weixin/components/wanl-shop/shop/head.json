@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "wanl-direct": "/components/wanl-direct/wanl-direct",
+    "wanl-share": "/components/wanl-share/wanl-share"
+  },
+  "component": true
+}

@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "银行卡",
+  "usingComponents": {
+    "wanl-bank": "/components/wanl-bank/wanl-bank",
+    "wanl-empty": "/components/wanl-empty/wanl-empty"
+  }
+}

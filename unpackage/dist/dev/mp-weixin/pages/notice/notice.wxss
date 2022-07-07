@@ -1,0 +1,9 @@
+
+.cu-bar .search-form{
+	background-color: #f2f2f2;
+}
+.cu-bar .search-form{
+	margin: 0 0 0 25rpx;
+}
+
+

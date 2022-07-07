@@ -1,0 +1,39 @@
+
+.wanl-money .balance {
+	/* background-color: #f1f1f1; */
+	margin: 10rpx 25rpx 25rpx 25rpx;
+}
+.wanl-money .balance .details {
+	padding: 50rpx 0;
+}
+.wanl-money .balance .operate {
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	background: rgba(0, 0, 0, 0.1);
+	height: 80rpx;
+	color: #fff;
+}
+.wanl-money .cu-list.menu-avatar>.cu-item{
+	height: 180rpx;
+	align-items: flex-start;
+	padding: 25rpx 0;
+}
+.wanl-money .cu-list.menu-avatar>.cu-item .cu-avatar {
+    width: 75rpx;
+    height: 75rpx;
+	left: 25rpx;
+	margin-top: 6rpx;
+}
+.wanl-money .cu-list.menu-avatar>.cu-item .content {
+    left: 120rpx;
+    width: calc(100% - 75rpx - 25rpx -150rpx);
+    line-height: 1.5em;
+}
+.wanl-money .cu-list.menu-avatar>.cu-item .action{
+	width: 150rpx;
+    text-align: right;
+	padding-right: 25rpx;
+}
+
+

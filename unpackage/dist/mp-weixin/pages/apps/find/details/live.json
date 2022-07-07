@@ -1,0 +1,13 @@
+{
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "直播间",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "wanl-live-header": "/components/wanl-live/header",
+    "wanl-live-empty": "/components/wanl-live/empty",
+    "wanl-live-image": "/components/wanl-live/image",
+    "wanl-live-play": "/components/wanl-live/play",
+    "wanl-live-comment": "/components/wanl-live/comment",
+    "wanl-live-footer": "/components/wanl-live/footer"
+  }
+}

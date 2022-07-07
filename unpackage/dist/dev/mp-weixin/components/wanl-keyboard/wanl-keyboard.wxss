@@ -1,0 +1,40 @@
+
+.numberkeyboard {
+	position: fixed;
+	width: 100%;
+	bottom: 0;
+}
+.numberkeyboard .title {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 50rpx;
+	background: #f9f9f9;
+}
+.numberkeyboard .keys {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+.numberkeyboard .keys .key {
+	width: 250rpx;
+	height: 120rpx; 
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border-right: 1px solid #f5f5f5;
+	box-sizing: border-box;
+	font-size: 40rpx;
+}
+.numberkeyboard .keys .key:nth-child(n + 4) {
+	border-top: 1px solid #f5f5f5;
+	box-sizing: border-box;
+}
+.numberkeyboard .keys .key:active {
+	background: #dddddd;
+}
+.iPhonex {
+	padding-bottom: calc(env(safe-area-inset-bottom) * 1.5);
+	background-color: #f5f5f5;
+}
+

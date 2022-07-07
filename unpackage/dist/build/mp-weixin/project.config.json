@@ -1,0 +1,44 @@
+{
+  "description": "项目配置文件，详见文档：https://developers.weixin.qq.com/miniprogram/dev/devtools/projectconfig.html",
+  "packOptions": {
+    "ignore": [],
+    "include": []
+  },
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "minified": true,
+    "postcss": true,
+    "coverView": true,
+    "lazyloadPlaceholderEnable": false,
+    "preloadBackgroundData": false,
+    "autoAudits": false,
+    "uglifyFileName": false,
+    "uploadWithSourceMap": true,
+    "enhance": true,
+    "showShadowRootInWxmlPanel": true,
+    "packNpmManually": false,
+    "packNpmRelationList": [],
+    "minifyWXSS": true,
+    "useStaticServer": true,
+    "showES6CompileOption": false,
+    "checkInvalidKey": true,
+    "compileHotReLoad": true,
+    "babelSetting": {
+      "ignore": [],
+      "disablePlugins": [],
+      "outputPath": ""
+    },
+    "disableUseStrict": false,
+    "useCompilerPlugins": false
+  },
+  "compileType": "miniprogram",
+  "libVersion": "2.25.0",
+  "appid": "wxb21542e7323fd115",
+  "projectname": "中食展直播选品小程序",
+  "condition": {},
+  "editorSetting": {
+    "tabIndent": "insertSpaces",
+    "tabSize": 2
+  }
+}

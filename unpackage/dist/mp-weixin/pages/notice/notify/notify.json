@@ -1,0 +1,7 @@
+{
+  "enablePullDownRefresh": true,
+  "navigationBarTitleText": "通知消息",
+  "usingComponents": {
+    "wanl-empty": "/components/wanl-empty/wanl-empty"
+  }
+}

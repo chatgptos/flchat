@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "wanl-product": "/components/wanl-product/wanl-product",
+    "uni-load-more": "/components/uni-load-more/uni-load-more"
+  }
+}

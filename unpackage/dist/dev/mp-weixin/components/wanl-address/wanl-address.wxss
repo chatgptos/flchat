@@ -1,0 +1,129 @@
+@charset "UTF-8";
+/* 页面左右间距 */
+/* 文字尺寸 */
+/*文字颜色*/
+/* 边框颜色 */
+/* 图片加载中颜色 */
+/* 行为相关颜色 */
+.wrapper {
+  z-index: 9990;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+.wrapper .content_view {
+  z-index: 9991;
+  background: white;
+  position: absolute;
+  height: 80%;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  border-top-left-radius: 20rpx;
+  border-top-right-radius: 20rpx;
+}
+.wrapper .content_view .title_view {
+  height: 8%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 10px;
+}
+.wrapper .content_view .title_view .title {
+  font-size: uni-font-size-sm;
+}
+.wrapper .content_view .title_view .close_view {
+  height: 40rpx;
+  width: 40rpx;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.wrapper .content_view .select_top {
+  height: 8%;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 0 20rpx 20rpx 20rpx;
+  position: relative;
+  box-sizing: border-box;
+}
+.wrapper .content_view .select_top .select_top_item {
+  width: 160rpx;
+  font-size: 28rpx;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}
+.wrapper .content_view .select_top .indicator {
+  position: absolute;
+  width: 60rpx;
+  height: 4rpx;
+  background: #dd524d;
+  left: 32rpx;
+  bottom: 0;
+  transition: left 0.5s ease;
+}
+.wrapper .content_view .swiper {
+  height: 80%;
+  position: relative;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  right: 0;
+}
+.wrapper .content_view .swiper .swiper-item {
+  height: 100%;
+}
+.wrapper .content_view .swiper .swiper-item .scroll-view-item {
+  height: 100%;
+  padding: 0 20rpx;
+}
+.wrapper .content_view .swiper .swiper-item .scroll-view-item .address_item {
+  padding: 10rpx 0;
+  font-size: 28rpx;
+  display: flex;
+  align-items: center;
+}
+.wrapper .content_view .swiper .swiper-item .scroll-view-item .address_item .address_item_icon {
+  width: 40rpx;
+  height: 40rpx;
+  margin-right: 20rpx;
+}
+.wrapper .mask {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.2);
+}
+.content-enter {
+  -webkit-transform: translateY(100%);
+          transform: translateY(100%);
+}
+.content-enter-to {
+  -webkit-transform: translateY(0%);
+          transform: translateY(0%);
+}
+.content-enter-active {
+  transition: -webkit-transform 0.5s;
+  transition: transform 0.5s;
+  transition: transform 0.5s, -webkit-transform 0.5s;
+}
+.content-leave {
+  -webkit-transform: translateY(0%);
+          transform: translateY(0%);
+}
+.content-leave-to {
+  -webkit-transform: translateY(100%);
+          transform: translateY(100%);
+}
+.content-leave-active {
+  transition: -webkit-transform 0.5s;
+  transition: transform 0.5s;
+  transition: transform 0.5s, -webkit-transform 0.5s;
+}
+

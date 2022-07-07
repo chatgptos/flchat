@@ -1,0 +1,10 @@
+{
+  "navigationBarTextStyle": "white",
+  "navigationStyle": "custom",
+  "disableScroll": true,
+  "usingComponents": {
+    "flbooth-page": "/components/wanl-shop/page",
+    "flbooth-find": "/components/wanl-shop/find",
+    "flbooth-category": "/components/wanl-shop/category"
+  }
+}
